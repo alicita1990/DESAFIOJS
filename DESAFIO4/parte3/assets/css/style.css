@@ -1,0 +1,27 @@
+body {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 50px;
+}
+
+#divAzul {
+  width: 200px;
+  height: 200px;
+  background-color: blue;
+}
+#divRojo {
+  width: 200px;
+  height: 200px;
+  background-color: brown;
+}
+#divVerde {
+  width: 200px;
+  height: 200px;
+  background-color: green;
+}
+#divAmarillo {
+  width: 200px;
+  height: 200px;
+  background-color: yellow;
+}

@@ -1,0 +1,10 @@
+.color-box {
+  width: 200px;
+  height: 200px;
+  border: 1px solid black;
+  margin-left: 300px;
+  margin-top: 30px;
+}
+#key {
+  background-color: white;
+}
